@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abraha Shaik
+- 👋 Hi, I’m Abraha Shaik, a full time Data Analyst working at a Fintech Startup.
 
 
 <!---
